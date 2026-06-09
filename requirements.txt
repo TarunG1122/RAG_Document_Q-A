@@ -28,3 +28,4 @@ openai
 ipykernel
 python-dotenv
 groq
+duckduckgo-search
